@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "description": "React is a JavaScript library for building user interfaces. Declarative: React makes it painless to create interactive UIs"
+  },
+  {
+    "id": 2,
+    "title": "Redux",
+    "description": "Redux is a post-positive adjective meaning 'brought back, restored' (from Latin reducere, 'to bring back') used in literature, film and video game titles"
+  },
+  {
+    "id": 3,
+    "title": "NextJs",
+    "description": "Next.js is a React framework that gives you building blocks to create web applications. By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application."
+  },
+  {
+    "id": 4,
+    "title": "ExpressJs",
+    "description": "Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
+  },
+  {
+    "id": 5,
+    "title": "Rails",
+    "description": "Rails is a framework for web application development written in Ruby. It provides a structure to web developers for all the codes. It is manufactured to ease web application programming by predicting what every developer needs to begin with."
+  }
+]
