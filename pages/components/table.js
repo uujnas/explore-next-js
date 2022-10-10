@@ -1,20 +1,18 @@
 export default function Table() {
   return (
-    <table className="table">
+    <table className="table container">
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Title</th>
+      <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td>react</td>
+      <td>learn something productiove</td>
     </tr>
   </tbody>
 </table>
